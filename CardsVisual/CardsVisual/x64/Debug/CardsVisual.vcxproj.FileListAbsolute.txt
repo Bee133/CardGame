@@ -1,0 +1,6 @@
+C:\Users\Home\Desktop\Литература вуза\Алгоритмизация и программирование\Курсовая работа\Приложение Карты\Графическое приложение 2\CardsVisual\CardsVisual\x64\Debug\CardsVisual.vcxproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Литература вуза\Алгоритмизация и программирование\Курсовая работа\Приложение Карты\Графическое приложение 2\CardsVisual\CardsVisual\x64\Debug\CardsVisual.Durack.resources
+C:\Users\Home\Desktop\Литература вуза\Алгоритмизация и программирование\Курсовая работа\Приложение Карты\Графическое приложение 2\CardsVisual\CardsVisual\x64\Debug\CardsVisual.vcxproj.GenerateResource.cache
+D:\Портфолио\Курсовая по Алгоритмизации и Программированию\Графическое приложение 2\CardsVisual\CardsVisual\x64\Debug\CardsVisual.vcxproj.AssemblyReference.cache
+D:\Портфолио\Курсовая по Алгоритмизации и Программированию\Графическое приложение 2\CardsVisual\CardsVisual\x64\Debug\CardsVisual.Durack.resources
+D:\Портфолио\Курсовая по Алгоритмизации и Программированию\Графическое приложение 2\CardsVisual\CardsVisual\x64\Debug\CardsVisual.vcxproj.GenerateResource.cache
